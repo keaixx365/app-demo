@@ -1,0 +1,3 @@
+web:    java -cp target/classes:target/dependency/* com.pwc.mavenDemo.service.App
+
+java.runtime.version=1.6
